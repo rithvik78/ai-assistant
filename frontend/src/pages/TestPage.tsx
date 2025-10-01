@@ -40,7 +40,8 @@ const TestPage: React.FC = () => {
   const generateTestQueries = async () => {
     setIsGenerating(true)
     try {
-      const response = await axios.get('/api/test/generate-queries')
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+      const response = await axios.get(`${apiUrl}/api/test/generate-queries`)
       setTestQueries(response.data.test_queries)
     } catch (error) {
       console.error('Error generating test queries:', error)
@@ -52,7 +53,8 @@ const TestPage: React.FC = () => {
   const runAllTests = async () => {
     setIsRunning(true)
     try {
-      const response = await axios.post('/api/test/run-all')
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+      const response = await axios.post(`${apiUrl}/api/test/run-all`)
       setTestResults(response.data.test_results)
     } catch (error) {
       console.error('Error running tests:', error)

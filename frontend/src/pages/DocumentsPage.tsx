@@ -30,7 +30,8 @@ const DocumentsPage: React.FC = () => {
 
   const fetchDocuments = async () => {
     try {
-      const response = await axios.get('/api/documents')
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+      const response = await axios.get(`${apiUrl}/api/documents`)
       setDocuments(response.data.documents)
     } catch (error) {
       console.error('Error fetching documents:', error)
@@ -45,8 +46,9 @@ const DocumentsPage: React.FC = () => {
       try {
         const formData = new FormData()
         formData.append('file', file)
+        const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
-        await axios.post('/api/documents/upload', formData, {
+        await axios.post(`${apiUrl}/api/documents/upload`, formData, {
           headers: {
             'Content-Type': 'multipart/form-data'
           }
@@ -67,7 +69,8 @@ const DocumentsPage: React.FC = () => {
     if (!confirm('Are you sure you want to delete this document?')) return
 
     try {
-      await axios.delete(`/api/documents/${docId}`)
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+      await axios.delete(`${apiUrl}/api/documents/${docId}`)
       await fetchDocuments()
     } catch (error) {
       console.error('Error deleting document:', error)

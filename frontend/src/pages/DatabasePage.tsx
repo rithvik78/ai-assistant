@@ -29,7 +29,8 @@ const DatabasePage: React.FC = () => {
 
   const fetchSchema = async () => {
     try {
-      const response = await axios.get('/api/database/schema')
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+      const response = await axios.get(`${apiUrl}/api/database/schema`)
       setSchema(response.data.schema)
 
       // Select first table by default

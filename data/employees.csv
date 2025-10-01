@@ -1,0 +1,81 @@
+record_id,created_time,Department,Email,Employee ID,Location,Manager,Name,Role,Start Date,Status
+rec02WMFjGOUZQgIa,2025-06-08T08:52:50.000Z,Engineering,sarah.chen@techflow.com,1,San Francisco,,Sarah Chen,VP Engineering,2020-01-15,Active
+rec041B1IgFYDXCNB,2025-06-08T08:52:50.000Z,Support,stephanie.baker@techflow.com,28,Remote,Alex Morgan,Stephanie Baker,Technical Support Lead,2021-07-19,Active
+rec0ITeislHWzClDb,2025-06-08T08:52:50.000Z,Finance,madison.bryant@techflow.com,64,Austin,Rachel Thompson,Madison Bryant,Tax Specialist,2021-09-14,Active
+rec0MOfNDvcpyO5Dx,2025-06-08T08:52:50.000Z,Marketing,zoe.cox@techflow.com,42,San Francisco,Emily Johnson,Zoe Cox,SEO Specialist,2022-04-19,Active
+rec1iXe4utMaFdh3s,2025-06-08T08:52:50.000Z,HR,mason.powell@techflow.com,45,San Francisco,David Kim,Mason Powell,Compensation Analyst,2022-03-07,Active
+rec1sNzwcVs69DQoW,2025-06-08T08:52:50.000Z,Support,alex.morgan@techflow.com,6,Remote,,Alex Morgan,VP Customer Support,2021-02-28,Active
+rec2LNrrzp1gzGqnw,2025-06-08T08:52:50.000Z,HR,elijah.griffin@techflow.com,63,Remote,David Kim,Elijah Griffin,Talent Acquisition Specialist,2022-05-26,Active
+rec2PAyvMVTBYEAu9,2025-06-08T08:52:50.000Z,Marketing,liam.hughes@techflow.com,43,New York,Emily Johnson,Liam Hughes,Marketing Analyst,2023-01-16,Active
+rec2TcPTwUGnQ89Xe,2025-06-08T08:52:50.000Z,Sales,natalie.stewart@techflow.com,58,San Francisco,Michael Rodriguez,Natalie Stewart,Regional Sales Director,2018-09-11,Active
+rec2W0fpLsB2i2XX2,2025-06-08T08:52:50.000Z,Marketing,skylar.jenkins@techflow.com,72,Austin,Emily Johnson,Skylar Jenkins,Growth Marketing Manager,2021-11-08,Active
+rec2fS7Vcve4AJBph,2025-06-08T08:52:50.000Z,Engineering,tyler.harrison@techflow.com,31,Remote,Sarah Chen,Tyler Harrison,Frontend Developer,2022-05-11,Active
+rec3E5R2tDuccgCHJ,2025-06-08T08:52:50.000Z,Engineering,jennifer.davis@techflow.com,10,San Francisco,Sarah Chen,Jennifer Davis,QA Engineer,2022-01-20,Active
+rec3M2JvTQesTcAKZ,2025-06-08T08:52:50.000Z,Support,alexander.rivera@techflow.com,53,Remote,Alex Morgan,Alexander Rivera,Technical Writer,2021-10-31,Active
+rec4I0cf9NglLiQi8,2025-06-08T08:52:50.000Z,Finance,logan.alexander@techflow.com,65,New York,Rachel Thompson,Logan Alexander,Procurement Specialist,2022-11-01,Active
+rec7R5GD4StoqbcUQ,2025-06-08T08:52:50.000Z,Sales,mark.anderson@techflow.com,11,New York,Michael Rodriguez,Mark Anderson,Senior Account Executive,2020-07-08,Active
+rec7rumila0XOmwqZ,2025-06-08T08:52:50.000Z,HR,steven.garcia@techflow.com,17,New York,David Kim,Steven Garcia,Recruiter,2021-08-22,On Leave
+rec9vbGo1fsjs7WKZ,2025-06-08T08:52:50.000Z,Support,emma.cooper@techflow.com,50,San Francisco,Alex Morgan,Emma Cooper,Support Manager,2020-04-07,Active
+recA8QPqOTRr1dXWJ,2025-06-08T08:52:50.000Z,HR,michelle.green@techflow.com,26,San Francisco,David Kim,Michelle Green,HR Coordinator,2022-11-14,Terminated
+recAFodxoAJjvXXny,2025-06-08T08:52:50.000Z,Marketing,rowan.mitchell@techflow.com,79,Remote,Emily Johnson,Rowan Mitchell,Creative Director,2019-04-17,Active
+recBEt3VEYnhitVDS,2025-06-08T08:52:50.000Z,Finance,rachel.thompson@techflow.com,5,New York,,Rachel Thompson,VP Finance,2018-05-14,Active
+recDP1r1tg63dt5Tg,2025-06-08T08:52:50.000Z,Sales,laura.scott@techflow.com,24,New York,Michael Rodriguez,Laura Scott,Account Executive,2023-03-15,Active
+recEYVStyNHoUSUUr,2025-06-08T08:52:50.000Z,Finance,easton.parker@techflow.com,75,Remote,Rachel Thompson,Easton Parker,Financial Planning Analyst,2021-04-15,Active
+recEggdHKaLzN1Cfc,2025-06-08T08:52:50.000Z,Finance,jacob.henderson@techflow.com,49,Remote,Rachel Thompson,Jacob Henderson,Accounts Payable Specialist,2022-08-24,Active
+recFRHK4F1EzMTrqF,2025-06-08T08:52:50.000Z,Sales,susan.miller@techflow.com,12,Austin,Michael Rodriguez,Susan Miller,Account Executive,2021-04-14,Active
+recFyNey0JCWSHRfj,2025-06-08T08:52:50.000Z,Sales,samantha.price@techflow.com,36,New York,Michael Rodriguez,Samantha Price,Enterprise Account Executive,2020-02-18,Active
+recII3B6JkSiVAm7P,2025-06-08T08:52:50.000Z,Marketing,amanda.white@techflow.com,14,Austin,Emily Johnson,Amanda White,Marketing Manager,2021-10-05,Active
+recIV1bDNs6qoCW3P,2025-06-08T08:52:50.000Z,Engineering,james.wilson@techflow.com,7,San Francisco,Sarah Chen,James Wilson,Senior Software Engineer,2021-06-15,Active
+recJqp3qp8RgqPYrg,2025-06-08T08:52:50.000Z,Engineering,ethan.brooks@techflow.com,35,San Francisco,Sarah Chen,Ethan Brooks,Security Engineer,2020-10-12,Active
+recLfbzjVgOo801Yt,2025-06-08T08:52:50.000Z,HR,ava.sanders@techflow.com,44,Austin,David Kim,Ava Sanders,Training Specialist,2021-06-09,Active
+recLujifTn2jmbJFB,2025-06-08T08:52:50.000Z,Marketing,mia.foster@techflow.com,40,Austin,Emily Johnson,Mia Foster,Product Marketing Manager,2021-01-28,Active
+recMbkI6CHLKeqUxZ,2025-06-08T08:52:50.000Z,Finance,jason.turner@techflow.com,27,New York,Rachel Thompson,Jason Turner,Senior Financial Analyst,2020-09-07,Active
+recNa3L4gNojkcfr4,2025-06-08T08:52:50.000Z,HR,karen.martinez@techflow.com,16,San Francisco,David Kim,Karen Martinez,HR Manager,2020-12-01,Active
+recNpedUsULleHpsB,2025-06-08T08:52:50.000Z,Engineering,nathan.cole@techflow.com,33,Austin,Sarah Chen,Nathan Cole,Mobile Developer,2022-12-08,Active
+recO0irLGdu9xHS7l,2025-06-08T08:52:50.000Z,Sales,caleb.ward@techflow.com,39,New York,Michael Rodriguez,Caleb Ward,Channel Partner Manager,2020-08-05,Active
+recOr2d1y6ouKsX04,2025-06-08T08:52:50.000Z,Marketing,emily.johnson@techflow.com,3,Austin,,Emily Johnson,VP Marketing,2020-08-01,Active
+recP9ya6fkcSD6bIK,2025-06-08T08:52:50.000Z,HR,charlotte.long@techflow.com,46,Remote,David Kim,Charlotte Long,Employee Relations Specialist,2020-11-25,On Leave
+recQaJecq2gbbOBvF,2025-06-08T08:52:50.000Z,Engineering,benjamin.rogers@techflow.com,57,New York,Sarah Chen,Benjamin Rogers,Database Administrator,2020-06-30,Active
+recQwH0XRDBSPuGs1,2025-06-08T08:52:50.000Z,Marketing,carter.simmons@techflow.com,61,New York,Emily Johnson,Carter Simmons,Brand Manager,2021-07-13,Active
+recR7tYCN1N3dOLW3,2025-06-08T08:52:50.000Z,Engineering,olivia.reed@techflow.com,34,New York,Sarah Chen,Olivia Reed,Data Engineer,2021-04-26,Active
+recR8PjUz6v4QPCJF,2025-06-08T08:52:50.000Z,Sales,robert.taylor@techflow.com,13,Remote,Michael Rodriguez,Robert Taylor,Sales Development Rep,2022-08-30,Active
+recSJUdlBMlGhN2RX,2025-06-08T08:52:50.000Z,Finance,sophia.barnes@techflow.com,48,Austin,Rachel Thompson,Sophia Barnes,Budget Analyst,2021-12-13,Active
+recSpjzCfyDw8VhUN,2025-06-08T08:52:50.000Z,Support,jayden.russell@techflow.com,67,Remote,Alex Morgan,Jayden Russell,Quality Assurance Specialist,2022-12-05,Active
+recTgE24b4ZBcHSVh,2025-06-08T08:52:50.000Z,Sales,isabella.murphy@techflow.com,38,Remote,Michael Rodriguez,Isabella Murphy,Sales Engineer,2021-11-22,Active
+recUZESHZx4GE3D5t,2025-06-08T08:52:50.000Z,Support,william.kelly@techflow.com,51,New York,Alex Morgan,William Kelly,Senior Support Specialist,2021-05-18,Active
+recVke7hbHTrLyLZP,2025-06-08T08:52:50.000Z,Finance,nicole.clark@techflow.com,18,New York,Rachel Thompson,Nicole Clark,Financial Analyst,2021-05-10,Active
+recVwfXhyXiJXUqCb,2025-06-08T08:52:50.000Z,Support,maria.gonzalez@techflow.com,22,San Francisco,Alex Morgan,Maria Gonzalez,Support Specialist,2022-04-12,Active
+recWE4AEfrBcMS7hA,2025-06-08T08:52:50.000Z,HR,addison.foster@techflow.com,62,San Francisco,David Kim,Addison Foster,Benefits Administrator,2020-03-19,Active
+recWI15IPZdm4aAYC,2025-06-08T08:52:50.000Z,Sales,gabriel.flores@techflow.com,59,Remote,Michael Rodriguez,Gabriel Flores,Business Development Rep,2023-02-08,Active
+recWKe9S0IIeYDLX3,2025-06-08T08:52:50.000Z,Sales,rebecca.campbell@techflow.com,30,New York,Michael Rodriguez,Rebecca Campbell,Sales Manager,2019-06-25,Active
+recWVijjAi2UJxEe6,2025-06-08T08:52:50.000Z,Engineering,sebastian.perry@techflow.com,69,New York,Sarah Chen,Sebastian Perry,Platform Engineer,2021-01-12,Active
+recWcgyL4BrSuFBcZ,2025-06-08T08:52:50.000Z,Engineering,layla.washington@techflow.com,68,Austin,Sarah Chen,Layla Washington,Cloud Architect,2019-10-28,Active
+recZOiAep6hI6Oux7,2025-06-08T08:52:50.000Z,HR,paisley.torres@techflow.com,74,San Francisco,David Kim,Paisley Torres,People Operations Manager,2020-01-30,Active
+reca0HKo8FeUGq7iS,2025-06-08T08:52:50.000Z,Engineering,chloe.watson@techflow.com,54,San Francisco,Sarah Chen,Chloe Watson,UI/UX Designer,2022-02-22,Active
+recaXnfFQkFi7PE94,2025-06-08T08:52:50.000Z,Sales,lucas.gray@techflow.com,37,Austin,Michael Rodriguez,Lucas Gray,Inside Sales Rep,2022-07-14,Active
+recacOvRDDO3VAaIU,2025-06-08T08:52:50.000Z,HR,david.kim@techflow.com,4,San Francisco,,David Kim,VP Human Resources,2019-11-10,Active
+recckP9cy2QJeWh32,2025-06-08T08:52:50.000Z,Sales,michael.rodriguez@techflow.com,2,New York,,Michael Rodriguez,VP Sales,2019-03-22,Active
+recejM79p6Yayr6jj,2025-06-08T08:52:50.000Z,Sales,hunter.james@techflow.com,71,Remote,Michael Rodriguez,Hunter James,Key Account Manager,2019-12-09,Active
+recew5C1ozsUuF1Ke,2025-06-08T08:52:50.000Z,Finance,brian.lewis@techflow.com,19,Remote,Rachel Thompson,Brian Lewis,Accountant,2022-02-14,Active
+recfEK9upK9fTf0Em,2025-06-08T08:52:50.000Z,Engineering,maverick.scott@techflow.com,77,New York,Sarah Chen,Maverick Scott,Research Engineer,2020-07-23,Active
+recfTeEn3Wi6IPuBI,2025-06-08T08:52:50.000Z,Marketing,owen.bell@techflow.com,41,Remote,Emily Johnson,Owen Bell,Social Media Manager,2022-10-03,Active
+recg8fhLDFAUXKA9y,2025-06-08T08:52:50.000Z,Engineering,henry.cook@techflow.com,55,Remote,Sarah Chen,Henry Cook,Site Reliability Engineer,2020-12-17,Active
+rechI7AvHHDhxC3Dv,2025-06-08T08:52:50.000Z,Sales,nora.coleman@techflow.com,70,San Francisco,Michael Rodriguez,Nora Coleman,Customer Acquisition Manager,2020-05-21,Active
+rechKvEzhDpX4bbPS,2025-06-08T08:52:50.000Z,Marketing,chris.lee@techflow.com,15,Remote,Emily Johnson,Chris Lee,Content Marketing Specialist,2022-03-18,Active
+rechrhYwylqkhFTqG,2025-06-08T08:52:50.000Z,Support,aubrey.diaz@techflow.com,66,San Francisco,Alex Morgan,Aubrey Diaz,Customer Success Specialist,2021-03-16,Active
+reci03hHLoTgxzoOu,2025-06-08T08:52:50.000Z,Engineering,tom.brown@techflow.com,9,Austin,Sarah Chen,Tom Brown,DevOps Engineer,2021-11-03,Active
+reck7xrXhm10WLLwc,2025-06-08T08:52:50.000Z,Support,penelope.hill@techflow.com,76,Austin,Alex Morgan,Penelope Hill,Implementation Specialist,2022-10-18,Active
+reckRjvJczG7WDYU9,2025-06-08T08:52:50.000Z,Finance,noah.russell@techflow.com,47,New York,Rachel Thompson,Noah Russell,Controller,2019-07-15,Active
+reckgx3pcnftJEYCu,2025-06-08T08:52:50.000Z,Engineering,lisa.wang@techflow.com,8,Remote,Sarah Chen,Lisa Wang,Software Engineer,2022-09-12,Active
+reclXegLqHkBqgqMK,2025-06-08T08:52:50.000Z,Support,quinn.adams@techflow.com,80,Austin,Alex Morgan,Quinn Adams,Documentation Specialist,2022-06-12,Active
+reclagnOD5t6ASkAv,2025-06-08T08:52:50.000Z,Support,kevin.young@techflow.com,21,Austin,Alex Morgan,Kevin Young,Support Specialist,2022-06-28,Active
+reclq6Eb8GFXJ5H09,2025-06-08T08:52:50.000Z,Support,ashley.hall@techflow.com,20,Remote,Alex Morgan,Ashley Hall,Customer Success Manager,2021-12-06,Active
+recmYRn0g9QNurpwV,2025-06-08T08:52:50.000Z,Marketing,ryan.adams@techflow.com,25,Austin,Emily Johnson,Ryan Adams,Digital Marketing Specialist,2023-02-20,Active
+recqx6xN45nRqxn7w,2025-06-08T08:52:50.000Z,Marketing,haley.butler@techflow.com,60,Austin,Emily Johnson,Haley Butler,Events Coordinator,2022-01-24,Active
+recsjDwTuG9YXDWIq,2025-06-08T08:52:50.000Z,Engineering,lily.torres@techflow.com,56,Austin,Sarah Chen,Lily Torres,Machine Learning Engineer,2021-08-04,Active
+recuMMBYCRBu8kg3r,2025-06-08T08:52:50.000Z,Support,grace.morris@techflow.com,52,Austin,Alex Morgan,Grace Morris,Customer Onboarding Specialist,2022-09-06,Active
+recvzF4xb7wjTJjYR,2025-06-08T08:52:50.000Z,Engineering,jessica.parker@techflow.com,32,San Francisco,Sarah Chen,Jessica Parker,Backend Developer,2021-09-30,Active
+recyWAX4I23DtLUuT,2025-06-08T08:52:50.000Z,Marketing,carson.wood@techflow.com,73,New York,Emily Johnson,Carson Wood,Marketing Operations Specialist,2022-07-27,Active
+recyYkAhrUab6vvlH,2025-06-08T08:52:50.000Z,Sales,kinsley.green@techflow.com,78,San Francisco,Michael Rodriguez,Kinsley Green,Partner Success Manager,2021-12-21,Terminated
+reczTks3WW4DxvBrg,2025-06-08T08:52:50.000Z,Engineering,daniel.moore@techflow.com,23,Remote,Sarah Chen,Daniel Moore,Junior Software Engineer,2023-01-09,Active
+reczYBeOI5fyjOVz1,2025-06-08T08:52:50.000Z,Engineering,andrew.phillips@techflow.com,29,San Francisco,Sarah Chen,Andrew Phillips,Principal Engineer,2018-12-03,Active

@@ -1,0 +1,101 @@
+record_id,created_time,Asset ID,Asset Name,Assigned To,Cost,Purchase Date,Status,Type
+rec0E9PNFXq0BN2oz,2025-06-08T08:53:54.000Z,2015,Slack Pro License,Alex Morgan,96,2024-01-01,Active,Software License
+rec0EmMrCA5gxZSvI,2025-06-08T08:53:54.000Z,2089,iPhone 13 Mini,Ethan Brooks,599,2021-10-12,Active,Phone
+rec0m1CbVo7mv2Cs7,2025-06-08T08:53:54.000Z,2090,DataDog License,Henry Cook,2400,2024-01-01,Active,Software License
+rec132miFVDxkg9tv,2025-06-08T08:53:54.000Z,2032,Dell Inspiron 15,Robert Taylor,899,2024-08-30,Active,Laptop
+rec1VKXOg9pSApWpK,2025-06-08T08:53:54.000Z,2004,iPhone 15 Pro,Michael Rodriguez,1199,2024-01-10,Active,Phone
+rec4xodPuuQ8J4v70,2025-06-08T08:53:54.000Z,2064,iPhone 13 Pro,Ryan Adams,999,2023-02-20,Active,Phone
+rec52F8brie8G5Y2R,2025-06-08T08:53:54.000Z,2063,Curved Monitor 34-inch,Daniel Moore,699,2024-01-09,Active,Monitor
+rec5aErDRt7xZj29v,2025-06-08T08:53:54.000Z,2071,Laptop Stand Aluminum,Daniel Moore,59,2024-01-09,Active,Office Equipment
+rec5ftgGsqd3Dyr2l,2025-06-08T08:53:54.000Z,2078,Philips 27-inch Monitor,Stephanie Baker,299,2023-07-19,Active,Monitor
+rec6QES873Knerg0w,2025-06-08T08:53:54.000Z,2036,Desk Lamp LED,Susan Miller,45,2023-04-14,Active,Office Equipment
+rec7g6HP7XkUQn4TR,2025-06-08T08:53:54.000Z,2091,Wireless Presenter Remote,Rebecca Campbell,29,2023-06-25,Active,Office Equipment
+rec7sKkLPGf0HRrV0,2025-06-08T08:53:54.000Z,2002,Dell XPS 15,James Wilson,2299,2023-10-20,Active,Laptop
+rec8VVOOaksj3fC3D,2025-06-08T08:53:54.000Z,2018,ASUS 27-inch Monitor,Tom Brown,379,2023-11-03,Active,Monitor
+rec8hgddPtBTbmK83,2025-06-08T08:53:54.000Z,2031,Wireless Mouse,Mark Anderson,79,2023-07-08,Active,Office Equipment
+rec9579MpHnhb0tL8,2025-06-08T08:53:54.000Z,2001,MacBook Pro 16-inch M3,Sarah Chen,2999,2023-11-15,Active,Laptop
+recAEWKru5ick3SR3,2025-06-08T08:53:54.000Z,2027,MacBook Air M1,Susan Miller,999,2023-04-14,Maintenance,Laptop
+recBIF5Tvql4aQJ7s,2025-06-08T08:53:54.000Z,2029,iPhone 13,Karen Martinez,699,2021-12-01,Active,Phone
+recBeVvVj3XEffgBo,2025-06-08T08:53:54.000Z,2094,Samsung Galaxy Z Fold 4,Isabella Murphy,1799,2022-11-22,Active,Phone
+recBoEc3MvNGxYtH5,2025-06-08T08:53:54.000Z,2060,MongoDB Atlas License,Olivia Reed,1800,2024-01-01,Active,Software License
+recCFAm9atOPFJuVs,2025-06-08T08:53:54.000Z,2067,HP Spectre x360,Ryan Adams,1399,2024-02-20,Active,Laptop
+recCiiCzW9c2K7hBM,2025-06-08T08:53:54.000Z,2088,Dell UltraSharp Monitor,Jessica Parker,399,2023-09-30,Active,Monitor
+recD4nxDP32KGomyy,2025-06-08T08:53:54.000Z,2037,MacBook Pro 13-inch M2,Amanda White,1299,2023-10-05,Active,Laptop
+recDPUo3eCBMCgDni,2025-06-08T08:53:54.000Z,2075,Splunk Enterprise License,Olivia Reed,4800,2024-01-01,Active,Software License
+recEBifL4O2eYEB9i,2025-06-08T08:53:54.000Z,2050,AWS Enterprise License,Andrew Phillips,3600,2024-01-01,Active,Software License
+recEtekbFZNm2MgRa,2025-06-08T08:53:54.000Z,2051,Mechanical Keyboard,Chris Lee,189,2024-03-18,Active,Office Equipment
+recFPkwbqwQXKvXgI,2025-06-08T08:53:54.000Z,2005,Adobe Creative Suite License,Amanda White,599,2024-01-01,Active,Software License
+recGuDmPh3jWxSemI,2025-06-08T08:53:54.000Z,2077,Surface Book 3,Rebecca Campbell,1799,2023-06-25,Active,Laptop
+recH3aOZVY7KV5x2Z,2025-06-08T08:53:54.000Z,2020,Figma Professional License,Chloe Watson,144,2024-01-01,Active,Software License
+recHHw1eVa3VmGXr7,2025-06-08T08:53:54.000Z,2045,GitHub Enterprise License,Sarah Chen,2100,2024-01-01,Active,Software License
+recHXXv5UIkl26chb,2025-06-08T08:53:54.000Z,2096,Document Camera,Jessica Parker,199,2023-09-30,Active,Office Equipment
+recIf11OyjLehRArJ,2025-06-08T08:53:54.000Z,2006,Steelcase Leap Chair,Sarah Chen,415,2023-08-15,Active,Office Equipment
+recJYnTs7EwsjeXg1,2025-06-08T08:53:54.000Z,2046,Noise Cancelling Headphones,Amanda White,299,2023-10-05,Active,Office Equipment
+recK1t1bIUyNFeRKE,2025-06-08T08:53:54.000Z,2012,ThinkPad X1 Carbon,Tom Brown,1899,2023-11-03,Active,Laptop
+recKBn6OdCbYP2lcU,2025-06-08T08:53:54.000Z,2086,Ring Light for Video,Stephanie Baker,79,2023-07-19,Active,Office Equipment
+recKVPx4iGsZF9FkO,2025-06-08T08:53:54.000Z,2068,LG UltraWide Monitor,Laura Scott,449,2024-03-15,Active,Monitor
+recKWaIYTdlKHqzWZ,2025-06-08T08:53:54.000Z,2034,OnePlus 11,Steven Garcia,699,2023-08-22,Active,Phone
+recKh4dlH5fXCyv1c,2025-06-08T08:53:54.000Z,2057,MacBook Air M3,Daniel Moore,1299,2024-01-09,Active,Laptop
+recM16FTgzEvBHpAA,2025-06-08T08:53:54.000Z,2011,Herman Miller Aeron Chair,Michael Rodriguez,1395,2023-03-22,Active,Office Equipment
+recMx4mRCbXdpatDQ,2025-06-08T08:53:54.000Z,2040,Confluence License,Alexander Rivera,600,2024-01-01,Active,Software License
+recN9DwxPfE3Q9UgA,2025-06-08T08:53:54.000Z,2023,BenQ 32-inch Monitor,Jennifer Davis,599,2024-01-20,Active,Monitor
+recNMRVLEigamgBb2,2025-06-08T08:53:54.000Z,2054,Google Pixel 7,Maria Gonzalez,599,2023-04-12,Active,Phone
+recOlhLv8Jfqemzf7,2025-06-08T08:53:54.000Z,2009,iPhone 14,Emily Johnson,899,2023-05-18,Active,Phone
+recQ3UiBiynipVhtv,2025-06-08T08:53:54.000Z,2056,Wireless Charging Pad,Ashley Hall,39,2023-12-06,Active,Office Equipment
+recRyP1AKctZoE97Y,2025-06-08T08:53:54.000Z,2016,Standing Desk Converter,James Wilson,299,2023-06-15,Active,Office Equipment
+recS6SDYtc3m8ZsV9,2025-06-08T08:53:54.000Z,2065,Tableau License,Nicole Clark,840,2024-01-01,Active,Software License
+recToiNH2BUmfsFJR,2025-06-08T08:53:54.000Z,2028,LG 24-inch Monitor,Mark Anderson,199,2023-07-08,Active,Monitor
+recU1BHymnKo3W4Je,2025-06-08T08:53:54.000Z,2022,Surface Laptop 5,Mark Anderson,1299,2023-07-08,Active,Laptop
+recVUh1kyCpgocL5S,2025-06-08T08:53:54.000Z,2043,Acer 21-inch Monitor,Amanda White,119,2023-10-05,Active,Monitor
+recVbyMCEk2Br8qCa,2025-06-08T08:53:54.000Z,2021,Ergonomic Keyboard,Lisa Wang,159,2023-09-12,Active,Office Equipment
+recVhQG0kAMQy1V1D,2025-06-08T08:53:54.000Z,2073,ASUS ProArt Monitor,Ryan Adams,899,2024-02-20,Active,Monitor
+recWdxfb84NLHTlse,2025-06-08T08:53:54.000Z,2085,Terraform Enterprise License,Sebastian Perry,1800,2024-01-01,Active,Software License
+recWmyeEGSh58lt1U,2025-06-08T08:53:54.000Z,2076,USB-C Hub,Laura Scott,89,2024-03-15,Active,Office Equipment
+recXNnouE8xbL41D1,2025-06-08T08:53:54.000Z,2024,Google Pixel 8,Alex Morgan,699,2023-12-05,Active,Phone
+recY0PUunFyfPW5eC,2025-06-08T08:53:54.000Z,2003,LG 27-inch 4K Monitor,Sarah Chen,449,2023-11-15,Active,Monitor
+recY7TiPNuLtCSPXc,2025-06-08T08:53:54.000Z,2081,Portable Battery Pack,Ryan Adams,49,2024-02-20,Active,Office Equipment
+recaQLVgOomTm5qS9,2025-06-08T08:53:54.000Z,2007,MacBook Air M2,Lisa Wang,1199,2023-09-12,Active,Laptop
+recaXBJxSBIXYFvQl,2025-06-08T08:53:54.000Z,2097,Surface Laptop Studio,Caleb Ward,1999,2023-08-05,Active,Laptop
+recbNGp6miC1zM8a8,2025-06-08T08:53:54.000Z,2092,ThinkPad P1 Gen 5,Samantha Price,2899,2023-02-18,Active,Laptop
+recbiGOJcEPPVbgnW,2025-06-08T08:53:54.000Z,2049,iPhone 14 Pro,Ashley Hall,1099,2023-12-06,Active,Phone
+reccF0MDIEQyeimhi,2025-06-08T08:53:54.000Z,2099,iPhone 11,Mia Foster,499,2021-01-28,Retired,Phone
+receKYKpFuMmaczKD,2025-06-08T08:53:54.000Z,2014,Samsung Galaxy S24,David Kim,999,2024-02-14,Active,Phone
+recg1pZMbOaiUuvfJ,2025-06-08T08:53:54.000Z,2010,Microsoft Office 365 License,Karen Martinez,149,2024-01-01,Active,Software License
+recgWXCt2u14qZxwD,2025-06-08T08:53:54.000Z,2055,Docker Enterprise License,Henry Cook,1200,2024-01-01,Active,Software License
+recgrolCWNMnY0c7d,2025-06-08T08:53:54.000Z,2048,ViewSonic 23-inch Monitor,Chris Lee,159,2024-03-18,Active,Monitor
+rechefEJCNgFTo08Q,2025-06-08T08:53:54.000Z,2039,iPhone 12,Nicole Clark,599,2022-05-10,Retired,Phone
+reciTMlUvPtJPcbMe,2025-06-08T08:53:54.000Z,2058,MSI 25-inch Monitor,Kevin Young,199,2024-06-28,Active,Monitor
+reciz7ekzZbL5rHgB,2025-06-08T08:53:54.000Z,2042,Lenovo ThinkBook 14,Chris Lee,799,2024-03-18,Active,Laptop
+recj72cGAnw0kz4QL,2025-06-08T08:53:54.000Z,2019,iPhone 15,Rachel Thompson,899,2024-03-10,Active,Phone
+recj79w9bvnVcN7lj,2025-06-08T08:53:54.000Z,2084,Google Pixel 6,Nathan Cole,499,2022-12-08,Active,Phone
+recjiyK1Aq5wPqoZY,2025-06-08T08:53:54.000Z,2062,Gaming Laptop ASUS ROG,Laura Scott,1899,2024-03-15,Active,Laptop
+reckTbonLa6ceHxd3,2025-06-08T08:53:54.000Z,2030,Zoom Pro License,David Kim,179,2024-01-01,Active,Software License
+reckk3sbZZpC2dRb2,2025-06-08T08:53:54.000Z,2025,Salesforce CRM License,Michael Rodriguez,1800,2024-01-01,Active,Software License
+recknrRg6QiQebqx7,2025-06-08T08:53:54.000Z,2013,Dell 24-inch Monitor,Lisa Wang,279,2023-09-12,Active,Monitor
+reclBcS5kyHVbHteT,2025-06-08T08:53:54.000Z,2087,MacBook Pro 14-inch M2,Olivia Reed,1799,2023-04-26,Active,Laptop
+reclHgQOSMUFCCaVI,2025-06-08T08:53:54.000Z,2044,Samsung Galaxy S23,Brian Lewis,899,2023-06-15,Active,Phone
+reclaR8FDBqWt9QXj,2025-06-08T08:53:54.000Z,2069,Samsung Galaxy Note 20,Jason Turner,999,2021-09-07,Maintenance,Phone
+reclm9tpntV2Wtwft,2025-06-08T08:53:54.000Z,2033,HP 22-inch Monitor,Susan Miller,149,2023-04-14,Active,Monitor
+recnTHy1SI9nhYnbQ,2025-06-08T08:53:54.000Z,2038,Samsung 24-inch Monitor,Robert Taylor,229,2024-08-30,Active,Monitor
+recoahKYdN7AqW5p4,2025-06-08T08:53:54.000Z,2052,iPad Pro 12.9-inch,Kevin Young,1199,2024-06-28,Active,Laptop
+recofqLCIz25uasWM,2025-06-08T08:53:54.000Z,2061,External SSD 1TB,Kevin Young,149,2024-06-28,Active,Office Equipment
+recoyy1dp64dHDjju,2025-06-08T08:53:54.000Z,2100,Prometheus License,Henry Cook,1200,2024-01-01,Active,Software License
+recpVBLwpTSi9qCtO,2025-06-08T08:53:54.000Z,2026,Adjustable Monitor Arm,Jennifer Davis,89,2024-01-20,Active,Office Equipment
+recpgIszkxW1bjwzz,2025-06-08T08:53:54.000Z,2074,iPhone 14 Plus,Andrew Phillips,999,2023-12-03,Active,Phone
+recr36ON705MBU5Zl,2025-06-08T08:53:54.000Z,2079,iPhone 12 Pro,Tyler Harrison,999,2022-05-11,Retired,Phone
+recrCc2taqSQY8KxR,2025-06-08T08:53:54.000Z,2008,Samsung 32-inch Monitor,James Wilson,329,2023-10-20,Active,Monitor
+recsQwNqSIm2nzS0a,2025-06-08T08:53:54.000Z,2093,HP Z24f Monitor,Olivia Reed,179,2023-04-26,Active,Monitor
+recskRDSaOPRlMV3v,2025-06-08T08:53:54.000Z,2095,New Relic License,Jessica Parker,1800,2024-01-01,Active,Software License
+recsyE2rlMxB8uAYh,2025-06-08T08:53:54.000Z,2098,AOC 24-inch Monitor,Samantha Price,129,2023-02-18,Active,Monitor
+recuU5HJjNFyxePRu,2025-06-08T08:53:54.000Z,2017,MacBook Pro 14-inch M3,Jennifer Davis,1999,2024-01-20,Active,Laptop
+recuu3twxhcqMBvgF,2025-06-08T08:53:54.000Z,2066,Blue Yeti Microphone,Maria Gonzalez,99,2023-04-12,Active,Office Equipment
+recvqoV232xYw8cyr,2025-06-08T08:53:54.000Z,2070,Kubernetes License,Layla Washington,2400,2024-01-01,Active,Software License
+recxOSUjaObRuvBnx,2025-06-08T08:53:54.000Z,2082,Alienware m15,Jessica Parker,2299,2023-09-30,Active,Laptop
+recyDvZNU1P2Fq9Yk,2025-06-08T08:53:54.000Z,2059,iPhone 15 Pro Max,Sarah Chen,1399,2024-04-15,Active,Phone
+recyKx2xAWvmt09Qr,2025-06-08T08:53:54.000Z,2041,Webcam 4K,Robert Taylor,129,2024-08-30,Active,Office Equipment
+recybfTM2z9eSZx0R,2025-06-08T08:53:54.000Z,2047,Surface Pro 9,Nicole Clark,1099,2024-02-14,Active,Laptop
+recyiU525eyyjN9dI,2025-06-08T08:53:54.000Z,2053,Dell 20-inch Monitor,Nicole Clark,99,2024-02-14,Active,Monitor
+recysuvpfQha3lN9G,2025-06-08T08:53:54.000Z,2035,Jira Software License,Sarah Chen,840,2024-01-01,Active,Software License
+recz8Va9EiQgSRw9E,2025-06-08T08:53:54.000Z,2080,Jenkins Enterprise License,Andrew Phillips,1200,2024-01-01,Active,Software License
+reczEB7RDzJYUWCxm,2025-06-08T08:53:54.000Z,2083,Samsung Odyssey Monitor,Rebecca Campbell,549,2023-06-25,Active,Monitor
+reczTpIC6khOojBOE,2025-06-08T08:53:54.000Z,2072,MacBook Pro 16-inch M2,Stephanie Baker,2699,2023-07-19,Active,Laptop
